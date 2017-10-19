@@ -12,5 +12,9 @@
     •	Use terminal to access the created folder and then use command – ng serve to start the server
     •	User the configured port to launch your application.
     
+# Project Screenshot
+
+<img width="540" alt="screen-shot-2017-04-25-at-1 03 34-pm" src="https://user-images.githubusercontent.com/19431227/31774533-e0239ec0-b49a-11e7-8bcd-a361aca19c49.png">
+
     
     
