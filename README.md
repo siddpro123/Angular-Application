@@ -6,7 +6,7 @@
     3.	Sublime Text Editor
     4.	Firebase 
 
-# Since I used the Mac for the application development, I am sharing all the commands required for the project set up. 
+# Commands required for the project set up on Mac. 
     •	To install Angular- CLI – npm install -g @angular/cli
     •	To create a new project – ng new (application name)
     •	Use terminal to access the created folder and then use command – ng serve to start the server
